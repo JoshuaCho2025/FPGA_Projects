@@ -1,3 +1,0 @@
-C:/Users/joshu/Desktop/FPGA_Projects/arty_eth_echo/arty_eth_echo.sw/lwip_echo_server_v4/build/CMakeFiles/lwip_echo_server_v4.elf.dir
-C:/Users/joshu/Desktop/FPGA_Projects/arty_eth_echo/arty_eth_echo.sw/lwip_echo_server_v4/build/CMakeFiles/edit_cache.dir
-C:/Users/joshu/Desktop/FPGA_Projects/arty_eth_echo/arty_eth_echo.sw/lwip_echo_server_v4/build/CMakeFiles/rebuild_cache.dir
