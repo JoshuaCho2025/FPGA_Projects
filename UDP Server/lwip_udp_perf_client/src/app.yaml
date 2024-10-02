@@ -1,0 +1,3 @@
+domain_path: C:\Users\joshu\Desktop\FPGA_Projects\eth_echo_server.sw\eth_echo_server_platform_v7\export\eth_echo_server_platform_v7\sw\standalone_ps7_cortexa9_0
+app_src_dir: D:\Xilin\Vitis\2024.1\data\embeddedsw\lib\sw_apps\lwip_udp_perf_client
+template: lwip_udp_perf_client

@@ -1,0 +1,15 @@
+{
+  "name": "lwip_udp_perf_client",
+  "type": "HOST",
+  "platform": "C:\\Users\\joshu\\Desktop\\FPGA_Projects\\eth_echo_server.sw\\eth_echo_server_platform_v7\\export\\eth_echo_server_platform_v7\\eth_echo_server_platform_v7.xpfm",
+  "domain": "standalone_ps7_cortexa9_0",
+  "cpuInstance": "ps7_cortexa9_0",
+  "cpuType": "cortex-a9",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_ps7_cortexa9_0",
+  "applicationFlow": "EMBEDDED"
+}
