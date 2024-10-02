@@ -1,2 +1,4 @@
 Simple TCP Echo Server implemented on the ARTY Z7-20 board with the ZYNQ 7000 processor
-Note that different processors will not work with these files.
+- Note that different processors will not work with these files.
+block design xsa file was also uploaded for platform generation in Vitis
+- Note that when generating the platform, lwip220 will need to be enabled in the standalone BSP 
